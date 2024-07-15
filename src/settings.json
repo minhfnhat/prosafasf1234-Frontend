@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our groundbreaking solutions. Let's innovate together, one project at a time.",
+        "title": "Innovation in Every Step: Your Next Big Project Starts Here"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our groundbreaking solutions. Let's innovate together, one project at a time.",
+        "title": "Innovation in Every Step: Your Next Big Project Starts Here"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our groundbreaking solutions. Let's innovate together, one project at a time.",
+        "title": "Innovation in Every Step: Your Next Big Project Starts Here"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our groundbreaking solutions. Let's innovate together, one project at a time.",
+        "title": "Innovation in Every Step: Your Next Big Project Starts Here"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our groundbreaking solutions. Let's innovate together, one project at a time.",
+        "title": "Innovation in Every Step: Your Next Big Project Starts Here"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our groundbreaking solutions. Let's innovate together, one project at a time.",
+        "title": "Innovation in Every Step: Your Next Big Project Starts Here"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our groundbreaking solutions. Let's innovate together, one project at a time.",
+        "title": "Innovation in Every Step: Your Next Big Project Starts Here"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our groundbreaking solutions. Let's innovate together, one project at a time.",
+        "title": "Innovation in Every Step: Your Next Big Project Starts Here"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our groundbreaking solutions. Let's innovate together, one project at a time.",
+        "title": "Innovation in Every Step: Your Next Big Project Starts Here"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Innovation in Every Step: Your Next Big Project Starts Here",
+  "subtitle": "Transform your ideas into reality with our groundbreaking solutions. Let's innovate together, one project at a time."
+}
